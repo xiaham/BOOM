@@ -1,5 +1,5 @@
 Particles[] particles;
-//your code here
+
 int rgb;
 void setup()
 {
